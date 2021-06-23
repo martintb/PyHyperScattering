@@ -6,3 +6,11 @@ example_data/SST1
 *.DS_Store
 *.fits
 *.zip
+peter-dafs/*
+SST1RSoXS_Dec20/*
+GuoRSoXS*
+venv/*
+.idea*
+OrientationRunDec2019/*
+*.p
+*.ipynb
